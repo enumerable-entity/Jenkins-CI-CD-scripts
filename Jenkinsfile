@@ -1,4 +1,3 @@
-//file:noinspection GroovyAssignabilityCheck
         pipeline {
 
             agent { label 'RaspberryPi_MasterNode' }
